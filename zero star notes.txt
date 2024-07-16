@@ -1,0 +1,57 @@
+
+rob schneider flowers
+https://www.rogerebert.com/roger-ebert/a-bouquet-arrives
+supposedly every zero star review
+https://faroutmagazine.co.uk/every-movie-roger-ebert-gave-zero-stars/
+siskel list of bad 1972 films
+https://www.newspapers.com/article/chicago-tribune/42694559/
+
+
+find archive links by
+	look at old versions of wiki pages
+	look at archived rotten tomatoes pages
+		2013 or just before
+			too early and no direct link
+			too late and wrong link
+	look at archived imdb external reviews
+
+some older links may exist using www.suntimes.com for movies made 1985-2001
+http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19890414/REVIEWS/904140303/1023
+http://www.suntimes.com/ebert/ebert_reviews/1989/04/348924.html
+search archive.org for year and month
+http://www.suntimes.com/ebert/ebert_reviews/1985/08/
+https://web.archive.org/web/20010428104220/http://www.suntimes.com/ebert/ebert_reviews/
+or just search by all links, sort by name
+https://web.archive.org/web/*/http://rogerebert.suntimes.com/apps/pbcs.dll/article*
+
+
+movies where link existed but none archived
+goodbye uncle tom
+http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19721114/REVIEWS/211140301/1023
+guyana cult of the damned
+http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19800129/REVIEWS/1290301/1023
+fever pitch
+https://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19850820/REVIEWS/508200301/1023
+if he hollers let him go
+http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19681119/REVIEWS/811190301/1023
+
+zero stars that need verification
+review date	title
+1967 dec 13	Fathom
+1968 aug 01	I a Man
+1968 nov 19 If He Hollers, Let Him Go!
+1971 nov 02	The Female Bunch
+1971 mar 24	The Statue
+1972 nov 14	Goodbye Uncle Tom
+1973 jan 26 Prison Girls
+1975 jan 01	The Master Gunfighter - released oct 3 1975
+1976 sep 06	Survive!
+1980 jan 29	Guyana: Cult of the Damned
+1985 aug 20	Fever Pitch
+
+also need verification
+1982 aug 13	Tempest
+1977 jan 04	Lumiere			
+1976 jul 28	Futureworld
+1976 dec 22	The Seven-Per-Cent Solution
+			North Dallas Forty - released aug 1 1979

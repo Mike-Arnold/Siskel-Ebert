@@ -1,0 +1,69 @@
+
+to do:
+	add in clipped siskel reviews
+		https://chicagotribune.newspapers.com/clippings/?query=siskel&ymd-start=1981-01-01&ymd-end=1981-06-30&sort=paper-date-asc
+		1981
+		1982
+		1983
+		1984
+		1985
+		1986
+	check columns:
+		title
+		year
+
+stats
+	how often each gives up/down
+	how often each gives each star rating
+	average star rating - total and for each year
+	how often they agree
+
+replace
+https://www.youtube.com/watch?v=
+with
+youtu.be/
+
+
+site with many videos
+https://siskelebert.org/
+episode list
+https://www.thetvdb.com/
+
+top ten lists
+https://www.mistdriven.com/critics/ebert.html
+https://www.mistdriven.com/critics/siskel.html
+https://www.imdb.com/list/ls000330819/
+https://web.archive.org/web/20080215212543/http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20041215/COMMENTARY/41215001/1023
+
+ebert explains star ratings
+https://www.rogerebert.com/roger-ebert/you-give-out-too-many-stars
+https://www.rogerebert.com/reviews/shaolin-soccer-2004
+ebert says they agree 75% of the time - need video link
+
+newspaper clip of the first show airdate
+https://chicagotribune.newspapers.com/article/chicago-tribune-pilot-opening-soon/25013785/
+siskel possibly leaving chicago - didn't happen
+https://chicagotribune.newspapers.com/article/chicago-tribune/67123839/
+https://chicagotribune.newspapers.com/article/chicago-tribune-gary-deeb-column-09-06/145394695/
+someone reviews the show in 1980
+https://chicagotribune.newspapers.com/article/chicago-tribune-marilyn-preston-televisi/128737583/
+some data for oct 81 to sep 82
+https://groups.google.com/g/net.movies/c/_HUAyEcTUJQ/m/YAPJnIcVDa8J?pli=1
+
+roger ebert archive search
+http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=%2F19971212%2FREVIEWS%2F712120304 - example
+https://web.archive.org/web/20120422125258/http://www.rogerebert.com/apps/pbcs.dll/article?AID=/20110720/REVIEWS/110729998/-1/RSS example
+https://web.archive.org/web/*/rogerebert.suntimes.com*
+sun times at uc library
+https://www.lib.uchicago.edu/about/news/digital-archives-of-the-daily-news-and-sun-times-now-available/
+
+siskel and ebert discuss letterboxing
+https://www.youtube.com/watch?v=YQXqrL8AEVw
+comments on their getting along
+https://www.chicagotribune.com/1993/04/16/yes-siskel-ebert-like-each-other/
+
+lots of notable siskel reviews
+chicagotribune.com/1999/10/15/the-movie-reviews/
+
+https://chicagotribune.newspapers.com/image/389524947/
+https://bugmenot.com/view/newspapers.com - doesn't work with tribune

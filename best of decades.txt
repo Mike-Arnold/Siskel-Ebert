@@ -1,0 +1,60 @@
+
+ebert 70s
+An Unmarried Woman
+Apocalypse Now
+Amarcord
+Breaking Away
+Nashville
+Days of Heaven
+The Deer Hunter
+Heart of Glass
+Cries and Whispers
+Godfather 1 and 2
+
+siskel 70s
+The Sorrow and the Pity
+Annie Hall
+Last Tango in Paris
+The Emigrants
+Godfather 1 and 2
+The Conversation
+Mean Streets
+Last Detail
+Saturday Night Fever
+Le Boucher
+
+ebert 80s
+01. Raging Bull (Martin Scorsese)
+02. The Right Stuff (Philip Kaufman)
+03. E.T. (Steven Spielberg)
+04. Do the Right Thing (Spike Lee)
+05. My Dinner With Andre (Louis Malle)
+06. Raiders of the Lost Ark (Steven Spielberg)
+07. Ran (Akira Kurosawa)
+08. Missippi Burning (Alan Parker)
+09. Platoon (Oliver Stone)
+10. House of Games (David Mamet)
+
+siskel 80s
+01. Goodfellas (Martin Scorsese)
+02. After Dark, My Sweet (James Foley)
+03. Avalon (Barry Levinson)
+04. The Plot Against Harry (Michael Roemer)
+05. Too Beautiful for You (Bertrand Blier)
+06. Die Hard 2 (Renny Harlin)
+07. Dances With Wolves (Kevin Costner)
+08. Reversal of Fortune (Barbet Schroeder)
+09. The Freshman (Andrew Bergman)
+10. The Godfather Part III (Francis Ford Coppola)
+
+ebert 90s
+01. Hoop Dreams (Steve James, 1994)
+02. Pulp Fiction (Quentin Tarantino, 1994)
+03. GoodFellas (Martin Scorsese, 1990)
+04. Fargo (Joel Coen, 1996)
+05. Three Colors: Blue, White, Red (Krzysztof Kieslowski, 1994)
+06. Schindler's List (Steven Spielberg, 1993)
+07. Breaking the Waves (Lars von Trier, 1996)
+08. Leaving Las Vegas (Mike Figgis, 1995)
+09. Malcolm X (Spike Lee, 1992)
+10. JFK (Oliver Stone, 1991)
